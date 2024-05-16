@@ -1,4 +1,4 @@
---Создание таблицы с факутетами
+--Создание таблицы с факультетами 
 CREATE TABLE university.faculties ( 
     id INT NOT NULL PRIMARY KEY,
     faculty_name VARCHAR(100),
