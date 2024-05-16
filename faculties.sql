@@ -1,6 +1,6 @@
 CREATE TABLE university.faculties ( 
     id INT PRIMARY KEY,
-    faculty_name character varying(100),
+    faculty_name VARCHAR(100),
     price numeric(9,2)
 );
 
